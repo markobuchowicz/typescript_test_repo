@@ -1,0 +1,16 @@
+.serverless
+.idea
+.vscode
+.nyc_output
+.terraform
+coverage
+node_modules
+tmp
+**/test/output/report
+*.log
+*.tfstate*
+out
+.DS_store
+.envrc
+.env
+.hintrc
